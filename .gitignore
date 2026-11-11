@@ -1,0 +1,6 @@
+# Specify filepatterns you want git to ignore.
+output
+*.apk
+error.log
+missing
+bin/aapt2
